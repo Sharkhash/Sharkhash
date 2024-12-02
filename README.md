@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sharkhash
+- 👋 Hi, I’m Shourya
 - 👀 I’m interested in Coding, Finance and Entrepreneurship.
-- 🌱 I’m currently learning Python for Finance.
+- 🌱 I’m currently learning Full stack Development.
 - 💞️ I’m looking to collaborate on anything meaningful!
 - 📫 How to reach me- just message me!
 - 😄 Pronouns: he/him/his
